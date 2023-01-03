@@ -1,0 +1,20 @@
+Package: biigler
+Title: Operate BIIGLE RestfulAPI with R
+Version: 1.0.0
+Authors@R: 
+    person("Yu-Hsuan", "Huang", , "yhhunag15@ntu.edu.tw", role = c("aut", "cre"))
+Description: Operate BIIGLE RestfulAPI with R. Develop for ODB BIIGLE working group. Public version.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: R (>= 2.10)
+Imports: 
+    data.table,
+    ggplot2,
+    ggpubr,
+    httr,
+    jsonlite,
+    magrittr,
+    progress
+LazyData: true
