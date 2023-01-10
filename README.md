@@ -1,6 +1,6 @@
 # biigler
 
-[![DOI](https://zenodo.org/badge/584638619.svg)](https://zenodo.org/badge/latestdoi/584638619)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7502973.svg)](https://doi.org/10.5281/zenodo.7502973)
 
 > `biigler` is an unofficial R package developed by [Underwater Image Identification Working Group in ODB, IONTU](https://www.odb.ntu.edu.tw/bio/) mainly for substituting the repetitive operations on the [BIIGLE 2.0](https://biigle.de/) graphical user interface. 
 
